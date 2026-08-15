@@ -1,4 +1,4 @@
-### Salut, je suis **Didier ZALEMA** (PatronSilencieux) 👋
+### Salut, je suis **Didier ZALEMA PS** 👋
 
 **Développeur Fullstack | Flutter & Java SE | Administrateur MySQL**
 
@@ -7,6 +7,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-039BE5?style=for-the-badge&logo=Excel&logoColor=white)
 
 ---
 
